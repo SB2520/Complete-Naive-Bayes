@@ -18,16 +18,18 @@ The Heart Disease UCI dataset is sourced from Kaggle. It contains data on variou
 
 ## EDA
 
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/d88d1c9d-8e04-49b7-bbc4-d602b04242d2)
+![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/b942f2a9-1dc3-4558-be0c-4cdd83517840)
+
 
 ## Vizualisation and Analysis
 
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/b368142e-7ca6-47ec-9ad7-8db47c48a8d3)
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/d77e03b1-194b-4068-898a-d57788709960)
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/3524119c-9f39-423c-847b-9bd049d5e87e)
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/38c934b5-451d-47f2-872a-ac38bdf7d1c8)
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/be9b7d95-5a51-4d27-9172-5f43f9cbf0ac)
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/26d22323-7bf8-4495-8799-cce0b755dae7)
+![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/bc23bcda-4844-4029-9b4f-8422c7874243)
+
+![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/a17dfe59-ae82-486f-a12e-08992a11cb30)
+
+![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/2936486e-8906-4242-93c5-7bfe922e4ff1)
+
+
 
 ## Implementation
 
@@ -54,7 +56,8 @@ To run the experiment and compare the classifiers:
 
 After running the experiment, the script will display the following results:
 
-![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/430e5788-6013-457b-b561-21ae92b0e270)
+![image](https://github.com/SB2520/Complete-Naive-Bayes/assets/109037815/faa850ad-8452-46f3-adb0-37e4e1bcea8f)
+
 
 ## Presentation
 
